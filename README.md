@@ -1,2 +1,2 @@
 # test-pipeline
-This is my first-self project 
+This is my first self-project repo
