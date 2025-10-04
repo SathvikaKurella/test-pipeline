@@ -1,4 +1,4 @@
 # test-pipeline
 This is my first self-project Repository.
 <br>
-Author - Sathvika Kurella
+Author - Sathvika Reddy Kurella 
